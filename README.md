@@ -5,7 +5,7 @@ A cloned and modified clone of Spotify. A music web application.
 
 - HTML
 - CSS
--React
+- React
 - Python/ Django
 -PostgreSQL
 - Heroku for hosting
